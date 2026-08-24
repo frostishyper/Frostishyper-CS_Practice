@@ -5,7 +5,7 @@
 </p>
 
 Just Me Experimenting And Learning C# Basics & Fundamentals, With Standard Industry Practice
-And Object Orineted Programming Principles Learn As I Go Sprinkled In. 😎
+And Object Oriented Programming Principles Learned As I Go Sprinkled In. 😎
 
 
 ## 🧱 Stack
